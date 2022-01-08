@@ -7,11 +7,18 @@
 + **Chapter. 02**  [이동평균 필터 (Moving average filter)](Ch02_Moving_Average_Filter.ipynb)
 + **Chapter. 03**  [저주파 통과 필터 (Loss-pass filter)](Ch03_Low_Pass_Filter.ipynb)
 
-### **Part. 2 |** 칼만 필터 기초 (Kalman filter basics)
-+ **Chapter. 04** [칼만 필터 (Kalman Filter)]
-+ **Chapter. 05** [추정 과정 (Estimation)]
-+ **Chapter. 06** [예측 과정 (Prediction)]
-+ **Chapter. 07** [시스템 모델 (System Model)]
+### **Part. 02 |** 칼만 필터 기초 (Kalman filter basics)
++ **Chapter. 04** 칼만 필터 (Kalman Filter)
++ **Chapter. 05** 추정 과정 (Estimation)
++ **Chapter. 06** 예측 과정 (Prediction)
++ **Chapter. 07** 시스템 모델 (System Model)
+
+### **Part. 03 |** 칼만 필터 응용 (Kalman filter Application)
++ **Chapter. 08** [Chapter 08. 초간단 칼만 필터 예제 (Simple Example)]
++ **Chapter. 09** [Chapter 09. 위치로 속도 추정하기 (Position to Velocity Estimation)]
++ **Chapter. 10** [Chapter 10. 영상 속의 물체 추적하기 (Object Tracking)]
++ **Chapter. 11** [Chapter 11. 기울기 자세 측정하기 (Pose Orientation)]
+
 
 
 ## 참고자료 (Reference)
