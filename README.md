@@ -14,7 +14,7 @@
 + **Chapter. 07** 시스템 모델 (System Model)
 
 ### **Part. 03 |** 칼만 필터 응용 (Kalman filter Application)
-+ **Chapter. 08** [Chapter 08. 초간단 칼만 필터 예제 (Simple Example)]
++ **Chapter. 08** [Chapter 08. 초간단 칼만 필터 예제 (Simple Example)](./examples/Ch08_Simple_Kalman_Filter.ipynb)
 + **Chapter. 09** [Chapter 09. 위치로 속도 추정하기 (Position to Velocity Estimation)]
 + **Chapter. 10** [Chapter 10. 영상 속의 물체 추적하기 (Object Tracking)]
 + **Chapter. 11** [Chapter 11. 기울기 자세 측정하기 (Pose Orientation)]
