@@ -4,8 +4,8 @@
 ## 목차
 ### **Part. 01 |** 재귀 필터 (Recursive filter)  
 + **Chapter. 01**  [평균 필터 (Average filter)](./examples/Ch01_Average_Filter.ipynb)
-+ **Chapter. 02**  [이동평균 필터 (Moving average filter)](Ch02_Moving_Average_Filter.ipynb)
-+ **Chapter. 03**  [저주파 통과 필터 (Loss-pass filter)](Ch03_Low_Pass_Filter.ipynb)
++ **Chapter. 02**  [이동평균 필터 (Moving average filter)](./examples/Ch02_Moving_Average_Filter.ipynb)
++ **Chapter. 03**  [저주파 통과 필터 (Loss-pass filter)](./examples/Ch03_Low_Pass_Filter.ipynb)
 
 ### **Part. 02 |** 칼만 필터 기초 (Kalman filter basics)
 + **Chapter. 04** 칼만 필터 (Kalman Filter)
